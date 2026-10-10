@@ -1,0 +1,21 @@
+{
+  "name": "patientcensusboard",
+  "version": "1.0.0",
+  "description": "病员一览表",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjkxcy/PatientCensusBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yjkxcy/PatientCensusBoard/issues"
+  },
+  "homepage": "https://github.com/yjkxcy/PatientCensusBoard#readme"
+}
